@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/rlresellsss-png/Project-Delta-Private-V2-KeySystem/refs/heads/main/PD%20Private%20Key%20System%20V2.lua'))()
+loadstring(game:HttpGet('https://cdn.authguard.org/virtual-file/eddeedc46ca34b45baf1c6421388a3a6'))()
